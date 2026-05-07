@@ -120,6 +120,20 @@ The Power BI dashboard includes:
 ![Dashboard](dashboard.png)
 ---
 
+# 📁 Project Structure
+
+```text
+FUTURE_DS_01/
+│
+├── Analysis.ipynb
+├── Cleaned_Superstore.csv
+├── README.md
+├── Report.pdf
+├── Sample-Superstore.csv
+└── dashboard.png
+```
+---
+
 # 🚀 How to Run the Project
 
 ## Python Analysis
