@@ -1,4 +1,4 @@
-# 📊 Superstore Sales Analysis Dashboard
+# 📊 Business Sales Performance Analytics
 
 ## 📌 Project Overview
 This project focuses on analyzing retail sales data from a Superstore dataset to identify business trends, top-performing products, profitable categories, and regional performance.
